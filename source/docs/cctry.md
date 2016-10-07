@@ -7,7 +7,7 @@ category: Integrations
 Semaphore provides CruiseControl status (CCTray / CCMenu) API endpoint.
 
 <p class="alert alert-warning">
-This endpoint requires the user to provide his authentication token via <strong>auth_token</strong> parameter. To see your authentication token and project hash id, open a project’s settings, then find the “API” tab.
+This endpoint requires the user to provide their authentication token via <strong>auth_token</strong> parameter. To see your authentication token and project hash id, open a project’s settings, then find the “API” tab.
 </p>
 
 ```bash
